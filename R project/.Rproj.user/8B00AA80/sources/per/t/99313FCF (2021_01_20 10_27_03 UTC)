@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1574446725432.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3814016717",
+    "id" : "99313FCF",
+    "lastKnownWriteTime" : 1574458136,
+    "last_content_update" : 1574458136697,
+    "path" : "C:/Users/Mati/Downloads/R project/Regressions.R",
+    "project_path" : "Regressions.R",
+    "properties" : {
+        "cursorPosition" : "26,0",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

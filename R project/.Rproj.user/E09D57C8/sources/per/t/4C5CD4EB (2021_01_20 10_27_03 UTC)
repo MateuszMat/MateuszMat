@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1574433114893.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "4C5CD4EB",
+    "lastKnownWriteTime" : 1574432463,
+    "last_content_update" : 1574433114893,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "E9FBAA71",
+        "caption" : "Cars",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=Cars&cache_key=E9FBAA71",
+        "displayedObservations" : 205,
+        "environment" : "",
+        "expression" : "Cars",
+        "object" : "Cars",
+        "preview" : 0,
+        "totalObservations" : 205,
+        "variables" : 26
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

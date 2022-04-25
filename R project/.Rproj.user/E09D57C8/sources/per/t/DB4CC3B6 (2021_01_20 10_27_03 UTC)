@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1574428169889.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3814016717",
+    "id" : "DB4CC3B6",
+    "lastKnownWriteTime" : 1574435000,
+    "last_content_update" : 1574435000425,
+    "path" : "~/R project/Regressions.R",
+    "project_path" : "Regressions.R",
+    "properties" : {
+        "cursorPosition" : "26,0",
+        "scrollLine" : "2",
+        "tempName" : "Untitled2"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
